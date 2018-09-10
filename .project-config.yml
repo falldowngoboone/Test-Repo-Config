@@ -1,0 +1,16 @@
+project-config-version: 1
+service:
+  port: 8080
+  subdomain: test-repo
+notifications:
+  emails: reboone@containerstore.com
+name: Test Repo Config
+pivotalId: '1234567'
+pivotalLabel: test-repo-config
+flowName: Test Repo Config
+repositoryName: Test-Repo-Config
+changeManagement:
+  team: Services
+  email: reboone@containerstore.com
+  sponsor: Ravi Varasani
+  risk: Medium
